@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="resturants_category">Resturants</string>
+    <string name="publicplaces_ctegory">Public Places</string>
+    <string name="events">Events</string>
+    <string name="mosques">Mosques</string>
+    <string name="museums">Museums</string>
+
+
+
+    <string name="alexander">Alexander</string>
+    <string name="gaucho_steak_house">Gaucho Steak House</string>
+    <string name="the_smokry">the smokry</string>
+    <string name="le_deauville">Le Deauville</string>
+    <string name="shi_shantal">Shi Shantal</string>
+    <string name="la_rotisserio">La Rotisserio</string>
+    <string name="blue_blue">Blue Blue</string>
+    <string name="mo_by_drick">Mo By Drick</string>
+    <string name="zia_amelia">Zia Amelia</string>
+    <string name="caribbean">Caribbean</string>
+
+
+    <string name="superior">superior</string>
+    <string name="very_good">very good</string>
+    <string name="good">good</string>
+<string name="rating_five">5</string>
+    <string name="rating_fourh">4.5</string>
+    <string name="rating_four">4</string>
+    <string name="rating_three">3</string>
+</resources>
